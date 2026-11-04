@@ -20,7 +20,7 @@ It monitors HTTP requests, identifies potentially suspicious activity, classifie
 - Web-Based Security Dashboard
 - Security Activity Chart
 
-##Screenshots
+## Screenshots
 
 ### 1. Security Dashboard
 ![Dashboard](dashboard.png)
